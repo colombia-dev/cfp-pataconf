@@ -58,15 +58,34 @@ Para enviar una propuesta, debes crear un _Pull Request_ bajo el repositorio de 
 
 Puedes ver el [Ejemplo](propuestas/ejemplo.md)
   
-### Criterios de selección
+# Criterios de Selección
+
+Las propuestas podrán ser votadas por la comunidad por medio de _Reactions_ en el PR.
+
+![+1 Reaction](https://d17oy1vhnax1f7.cloudfront.net/items/063u2y141A130f0h2G1o/Screen%20Recording%202016-09-20%20at%2008.53%20AM.gif)
+
+* Para mantener un ambiente positivo y acogedor, sólo se tendrán en cuenta los reactions positivos (:+1:).
+  **Por favor no pongan _reactions_ negativos (:-1:)**. La persona que agregue un :-1:, quedará por fuera de la votación.
+
+* **Cada persona de la comunidad podrá votar por máximo 5 propuestas**.
+  Al cerrarse la votación se correrá un script que elija sólo los 5 reactions **más nuevos** de cada persona.
+
+* Los organizadores eligirán 11 charlas entre las más votadas.
+  **No son las 11 con más votos**, para poder tener una conferencia más
+  variada (en contenido y nivel de las charlas).  Los criterios extras pueden incluir (entre otros):
+
+  * Nivel de la charla (Queremos charlas de todos los niveles).
+  * Tema de la charla (Queremos impulsar comunidades nuevas).
+  * Conferencista (Queremos caras nuevas en la comunidad).
+
+
+  Esto no quiere decir que si perteneces a una _comunidad grande_, o ya has dado una charla tu propuesta no será aceptada. Pero en caso de empates, las personas y comuidades nuevas tendrán prioridad.
+
+# Fechas Importantes
 
 * TBD
 
-### Fechas Importantes
-
-* TBD
-
-### Ayuda & Preguntas
+# Ayuda & Preguntas
 
 Si tienes alguna pregunta puedes abrir un [Issue](https://github.com/colombia-dev/cfp-pataconf/issues/new).
 
