@@ -62,7 +62,7 @@ Puedes ver el [Ejemplo](propuestas/ejemplo.md)
 
 Las propuestas podrán ser votadas por la comunidad por medio de _Reactions_ en el PR.
 
-![+1 Reaction](https://17oy1vhnax1f7.cloudfront.net/items/063u2y141A130f0h2G1o/Screen%20Recording%202016-09-20%20at%2008.53%20AM.gif)
+![+1 Reaction](https://d17oy1vhnax1f7.cloudfront.net/items/063u2y141A130f0h2G1o/Screen%20Recording%202016-09-20%20at%2008.53%20AM.gif)
 
 * Para mantener un ambiente positivo y acogedor, sólo se tendrán en cuenta los reactions positivos (:+1:).
   **Por favor no pongan _reactions_ negativos (:-1:)**. La persona que agregue un :-1:, quedará por fuera de la votación.
