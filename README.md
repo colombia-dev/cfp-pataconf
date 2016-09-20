@@ -27,7 +27,6 @@
   - Internet de las cosas
   - Clojure
   - Desarrollo móvil
-  - DevOps
 
 
 2. Debes crear un Pull Request bajo el repositorio de https://github.com/colombia-dev/cfp-pataconf con tu propuesta con los siguientes campos:
