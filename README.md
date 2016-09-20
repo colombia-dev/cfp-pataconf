@@ -11,19 +11,23 @@
   - Machine Learning
   - Devops
   
-  Lenguajes de Programación
+  Lenguajes de Programación tales como
   - Elixir/Erlang
   - Golang
-  - Ruby
-  - Javascript y Frameworks
   - Scala
-
+  - Rust
+  - Objective C
+  - Swift
+  - Kotlin
+  - etc
+  - todos menos (ruby y javascript, por que ya hay eventos para estos [jsconfco](https://jsconf.co) y [rubyconfco](https://rubyconf.co)
 
   Otros temas (si hay mas de una charla interesante bajo estos temas, podríamos considerar escogerla)
   - Algoritmos
   - Internet de las cosas
   - Clojure
   - Desarrollo móvil
+  - DevOps
 
 
 2. Debes crear un Pull Request bajo el repositorio de https://github.com/colombia-dev/cfp-pataconf con tu propuesta con los siguientes campos:
