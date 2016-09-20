@@ -40,5 +40,11 @@
   3. Nombre de los conferencitas
   4. Nivel de la charla (básico, intermedio, avanzado)
   
-3. Tu PR recibirá un número de likes (me gusta/+1) por parte de los miembros de la comunidad de Colombia Dev y aquellas personas que deseen asistir al evento, dependiendo de este y otros criterios, te comunicaremos si tu charla ha sido escogida.
+3. Tu PR recibirá un número de likes (me gusta/+1) por parte de los miembros de la comunidad de Colombia Dev y aquellas personas que deseen asistir al evento.
+
+### Criterios de selección
+
+### Fechas Importantes
+
+
 
