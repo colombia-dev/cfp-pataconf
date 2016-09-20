@@ -20,7 +20,7 @@
   - Swift
   - Kotlin
   - etc
-  - todos menos (ruby y javascript, por que ya hay eventos para estos [jsconfco](https://jsconf.co) y [rubyconfco](http://rubyconf.co))
+  - todos **menos** ruby y javascript, por que ya hay eventos para estos [jsconfco](https://jsconf.co) y [rubyconfco](http://rubyconf.co)
 
   Otros temas (si hay mas de una charla interesante bajo estos temas, podríamos considerar escogerla)
   - Algoritmos
