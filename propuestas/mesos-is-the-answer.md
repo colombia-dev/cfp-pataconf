@@ -23,7 +23,7 @@ While you cruising
 
  * Breve historia de como el autor hacia devops hace 8 años implementando el IaaS de uno de los ISPs mas importantes del pais. (spoiler alert: `$ dpkg-buildpackage -us -uc`)
 
- * En contraste se describe la linea del tiempo de las tecnologias (devops) que el autor ha utilizado desde ese entonces llegando a la explocion de opciones que tenemos hoy en dia.
+ * En contraste se describe la linea del tiempo de las tecnologias (devops) que el autor ha utilizado desde ese entonces llegando a la explosión de opciones que tenemos hoy en dia.
 
  * Finalmente se introduce el problema que el autor y su equipo estan solucionando actualmente
 
