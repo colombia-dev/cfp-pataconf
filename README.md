@@ -5,7 +5,7 @@
 - Lugar: [Ruta N, Medellín][rutan]
 - Por ser un evento 100% comunitario y gratuito, no podemos cubrir gastos de transporte u hospedaje
 
-## FECHA LÍMITE PARA ENVIAR TU PROPUESTA: JUEVES 29 DE SEPTIEMBRE DE 2016.
+### FECHA LÍMITE PARA ENVIAR TU PROPUESTA: JUEVES 29 DE SEPTIEMBRE DE 2016.
 
 # Conferencias
 
