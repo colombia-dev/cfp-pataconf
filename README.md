@@ -5,6 +5,8 @@
 - Lugar: [Ruta N, Medellín][rutan]
 - Por ser un evento 100% comunitario y gratuito, no podemos cubrir gastos de transporte u hospedaje
 
+## FECHA LÍMITE PARA ENVIAR TU PROPUESTA: JUEVES 29 DE SEPTIEMBRE DE 2016.
+
 # Conferencias
 
 La misión de Pataconf es promover diferentes comunidades de desarrollo de software en Colombia. Buscamos
@@ -51,7 +53,7 @@ No aceptamos ruby ni javascript, por que ya hay eventos para estos ([jsconfco](h
 
 Para enviar una propuesta, debes crear un _Pull Request_ bajo el repositorio de https://github.com/colombia-dev/cfp-pataconf con tu propuesta con los siguientes campos:
 
-  1.  Título de la charla
+  1. Título de la charla
   2. Resumen
   3. Nombre de los conferencitas
   4. Nivel de la charla (básico, intermedio, avanzado)
@@ -81,9 +83,6 @@ Las propuestas podrán ser votadas por la comunidad por medio de _Reactions_ en 
 
   Esto no quiere decir que si perteneces a una _comunidad grande_, o ya has dado una charla tu propuesta no será aceptada. Pero en caso de empates, las personas y comuidades nuevas tendrán prioridad.
 
-# Fechas Importantes
-
-* TBD
 
 # Ayuda & Preguntas
 
