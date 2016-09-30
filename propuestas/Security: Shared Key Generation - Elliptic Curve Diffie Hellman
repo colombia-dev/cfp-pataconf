@@ -1,0 +1,16 @@
+Security: Shared Key Generation - Elliptic Curve Diffie Hellman
+===============================================================
+Compartir una llave entre dos puntos es un problema complejo, generar una llave
+compartida de manera segura es una manera inteligente de solucionarlo. A través
+del uso de la llave compartida, cliente y servidor pueden autenticar o encriptar
+las comunicaciones.
+
+ECDH es la alternativa que software como SSH, Bitcoin y Whatsapp usan para mantener
+las comunicaciones seguras. ECDH es una alternativa a RSA.
+
+Durante la charla se explicará de manera general el principio de Encripción de Curva
+Elíptica, Diffie Hellman, un cliente para móvil hecho en Unity3D - C# y un servidor
+de backend en Node.js
+
+- Conferencista: Héctor C. Alzate, Lead SDK Developer - Brainz
+- Nivel: Medio
