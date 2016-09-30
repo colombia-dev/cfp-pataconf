@@ -1,3 +1,9 @@
+
+
+# YA NO RECIBIREMOS MÁS PROPUESTAS
+
+
+
 # Llamado a Conferencistas
 
 - Duración de la charla: Máximo 30 mins 
